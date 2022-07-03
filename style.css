@@ -110,11 +110,11 @@ a {
    /* ***     hero     *** */
 #hero {
     left: 0;
-	top: 0;
-	width: 100vw;
-	height: 100vh;
+    top: 0;
+    width: 100vw;
+    height: 100vh;
     background: var(--White);
-    background-image: url('../images/bg-intro-desktop.svg');
+    background-image: url('images/bg-intro-desktop.svg');
     background-repeat: no-repeat;
     background-position: right;
     background-position-x: 550px;
