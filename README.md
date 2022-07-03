@@ -28,12 +28,11 @@ Users should be able to:
 
 ![](screensots/desktop-preview.jpg)
 ![](screensots/desktop-design.jpg)
-
 ![](screensots/mobile-navigation.jpg)
 ### Links
 
 - Solution URL: [Add solution URL here](https://github.com/pavan-h/Easybank-landing-page)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [Add live site URL here](https://pavan-h.github.io/Easybank-landing-page/)
 
 ## My process
 
