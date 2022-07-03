@@ -28,7 +28,7 @@ Users should be able to:
 
 ![](screensots/desktop-preview.jpg)
 ![](screensots/desktop-design.jpg)
-![](screensots/mobile-design.jpg)
+
 ![](screensots/mobile-navigation.jpg)
 ### Links
 
