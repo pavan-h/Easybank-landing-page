@@ -27,8 +27,9 @@ Users should be able to:
 ### Screenshot
 
 ![](screensots/desktop-preview.jpg)
-
-
+![](screensots/desktop-design.jpg)
+![](screensots/mobile-design.jpg)
+![](screensots/mobile-navigation.jpg)
 ### Links
 
 - Solution URL: [Add solution URL here](https://your-solution-url.com)
